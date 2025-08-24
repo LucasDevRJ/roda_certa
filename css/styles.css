@@ -2,7 +2,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Verdana, sans-serif;
 }
 
 body {
@@ -20,7 +20,7 @@ p, label {
 input {
     border: none;
     border-bottom: 1px solid #ccc;
-    padding: 10px 0;
+    padding: 10px 5px;
 }
 
 input[type="text"], input[type="number"], input[type="date"], input[type="file"], textarea {
@@ -35,12 +35,17 @@ textarea {
 .header {
     height: 160px;
     padding: 20px;
-    background-color: #673ab7;
+    background-color: #f3a245;
 }
 
 .header h3 {
     color: #fff;
     margin-top: 0;
+}
+
+.header h4 {
+    color: #fff;
+    margin-top: 10px;
 }
 
 /* form container */
@@ -59,9 +64,9 @@ textarea {
 }
 
 .form-header p {
-    color: #673ab7;
-    border-bottom: 2px solid #673ab7;
-    width: 100px;
+    color: #f3a245;
+    border-bottom: 2px solid #f3a245;
+    width: 120px;
     text-align: center;
     margin: 0 auto;
     text-transform: uppercase;
@@ -84,4 +89,43 @@ textarea {
 
 .required-field {
     color: #d80835;
+}
+
+.box-input {
+    margin-bottom: 35px;
+}
+
+.block {
+    display: block;
+}
+
+.optional-box {
+    display: inline-block;
+    margin: 0 30px 30px 0;
+}
+
+.optional-list li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+.box-input p {
+    margin-bottom: 15px;
+}
+
+.btn-submit {
+    background-color: #f3a245;
+    color: #fff;
+    border: 2px solid transparent;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 0.5s;
+}
+
+.btn-submit:hover {
+    background-color: #fff;
+    border-color: #f3a245;
+    color: #f3a245;
 }
