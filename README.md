@@ -10,7 +10,10 @@
 Desenvolvi um formulário web para venda de carros. O formulário possui um lindo layout, sendo bem usual, com tipos de entradas bem fáceis de se entender, validações disponíveis pelo HTML mesmo, vários tipos de entrada de dados, como númerica, textual, data, entre outras. 
 
 ### Apresentação
-Criei uma [apresentação](https://www.linkedin.com/posts/lucas-pereira-de-lima-programador_desenvolvimento-programaaexaeto-html-activity-7362939109729779713-qOpP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjMmpUB-y8JfOCMAryu6CQAVCn5DDjE31Y) sobre o projeto em formato de vídeo.
+
+https://www.linkedin.com/posts/lucas-pereira-de-lima-programador_html-css-desenvolvimento-activity-7365502271226372096-Dtga?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjMmpUB-y8JfOCMAryu6CQAVCn5DDjE31Y
+
+Criei uma [apresentação](https://www.linkedin.com/posts/lucas-pereira-de-lima-programador_desenvolvimento-programaaexaeto-html-activity-7365502271226372096-Dtga?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjMmpUB-y8JfOCMAryu6CQAVCn5DDjE31Y) sobre o projeto em formato de vídeo.
 
 # :hammer: Funcionalidades do projeto
 
