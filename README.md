@@ -11,9 +11,7 @@ Desenvolvi um formulário web para venda de carros. O formulário possui um lind
 
 ### Apresentação
 
-https://www.linkedin.com/posts/lucas-pereira-de-lima-programador_html-css-desenvolvimento-activity-7365502271226372096-Dtga?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjMmpUB-y8JfOCMAryu6CQAVCn5DDjE31Y
-
-Criei uma [apresentação](https://www.linkedin.com/posts/lucas-pereira-de-lima-programador_desenvolvimento-programaaexaeto-html-activity-7365502271226372096-Dtga?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjMmpUB-y8JfOCMAryu6CQAVCn5DDjE31Y) sobre o projeto em formato de vídeo.
+Criei uma [apresentação](https://www.linkedin.com/posts/lucas-pereira-de-lima-programador_html-css-desenvolvimento-activity-7365502271226372096-Dtga?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjMmpUB-y8JfOCMAryu6CQAVCn5DDjE31Y) sobre o projeto em formato de vídeo.
 
 # :hammer: Funcionalidades do projeto
 
